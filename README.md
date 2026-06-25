@@ -110,15 +110,15 @@ Currently building real-world projects in **Data Analytics, Business Intelligenc
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications 
 
-* 🏆 **IBM Data Analyst Professional Certificate**: https://www.coursera.org/account/accomplishments/professional-cert/J8BXGA7T30DQ
+* 🏆 **IBM Data Science Professional Certificate**: https://www.coursera.org/account/accomplishments/professional-cert/J8BXGA7T30DQ
 
-* 🏆 **IBM Data Science Professional Certificate**: https://www.coursera.org/account/accomplishments/professional-cert/OBFJD9DQLZRF
+* 🏆 **IBM Data Analyst Professional Certificate**: https://www.coursera.org/account/accomplishments/professional-cert/OBFJD9DQLZRF
 
-* 🏆 **IBM Data Analytics & Visualization Professional Certificate**: https://www.coursera.org/account/accomplishments/professional-cert/EQRT2MQFORL1
+* 🏆 **Microsoft SQL Server Professional Certificate**: https://www.coursera.org/account/accomplishments/professional-cert/EQRT2MQFORL1
 
-* 📜 **Data Analytics Certification**: https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Shubham%2BVishwakarma_153347609.pdf.pdf
+* 📜 **NASSCOM Data Visualization & Analytics**: https://fsp-assessment-certificates.s3.ap-southeast-1.amazonaws.com/%27/s3/buckets/fsp-assessment-certificates%27/Shubham%2BVishwakarma_153347609.pdf.pdf
 
 ---
 
