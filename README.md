@@ -124,7 +124,7 @@ Currently building real-world projects in **Data Analytics, Business Intelligenc
 
 ## 💻 Coding Profiles
 
-* 🟨 **LeetCode**: https://leetcode.com/u/shubham-vishwakarma-analytics/
+* 🟨 **LeetCode**: https://leetcode.com/u/shubham-vishwakarma-analytics
 * ⭐ **HackerRank**: https://www.hackerrank.com/profile/shubhamdata
 * 📊 **StrataScratch**: https://platform.stratascratch.com/user/shubhamvishwakarmaanalytics
 * 🏆 **Kaggle**: https://www.kaggle.com/datadrivenshubham
@@ -133,7 +133,7 @@ Currently building real-world projects in **Data Analytics, Business Intelligenc
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn**: https://www.linkedin.com/in/shubham-vishwakarma-analytics/
+* 💼 **LinkedIn**: https://www.linkedin.com/in/shubham-vishwakarma-analytics
 * 💻 **GitHub**: https://github.com/shubham-vishwakarma-analytics
 
 ---
