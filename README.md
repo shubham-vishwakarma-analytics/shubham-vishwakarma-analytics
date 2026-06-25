@@ -132,17 +132,10 @@ Currently building real-world projects in **Machine Learning, Data Analytics, an
 
 # 💻 Coding Profiles
 
-### LeetCode
-
-https://leetcode.com/u/shubham-vishwakarma-analytics/
-
-### HackerRank
-
-https://www.hackerrank.com/profile/shubhamdata
-
-### StrataScratch
-
-https://platform.stratascratch.com/user/shubhamvishwakarmaanalytics
+- 🟨 **LeetCode**: https://leetcode.com/u/shubham-vishwakarma-analytics/
+- ⭐ **HackerRank**: https://www.hackerrank.com/profile/shubhamdata
+- 📊 **StrataScratch**: https://platform.stratascratch.com/user/shubhamvishwakarmaanalytics
+- 🏆 **Kaggle**: https://www.kaggle.com/datadrivenshubham
 
 ---
 
