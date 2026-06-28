@@ -106,7 +106,6 @@ Git · GitHub · Jupyter Notebook
 
 - 💼 **LinkedIn**: [linkedin.com/in/shubham-vishwakarma-analytics](https://www.linkedin.com/in/shubham-vishwakarma-analytics)
 - 💻 **GitHub**: [github.com/shubham-vishwakarma-analytics](https://github.com/shubham-vishwakarma-analytics)
-- 📧 **Email**: shubhamvishwakarma.developer@gmail.com
 
 ---
 
