@@ -6,7 +6,7 @@ I am a B.Tech Graduate in Information Technology (2026) and an IBM Certified Dat
 
 I specialize in transforming raw data into actionable business insights through data analysis, dashboard development, statistical modeling, and predictive analytics. Currently building real-world projects in SQL, Power BI, Python, and Machine Learning while sharpening my problem-solving skills through daily coding and analytics challenges.
 
-📫 **Open to:** Data Analyst · Junior Data Analyst · Business Intelligence Analyst · Reporting Analyst · MIS Analyst
+📫 **Open to:** Data Analyst · Junior Data Analyst · Business Intelligence Analyst · Reporting Analyst · MIS Analyst.
 
 ---
 
