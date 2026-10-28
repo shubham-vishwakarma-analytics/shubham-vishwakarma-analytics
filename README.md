@@ -2,7 +2,7 @@
 
 🎯 **Data Analyst | SQL | Python | Power BI | Excel | Statistics | Machine Learning | IBM Certified**
 
-I am a B.Tech Graduate in Information Technology (2026) and an IBM Certified Data Analyst with hands-on experience in Data Analytics, Business Intelligence, Data Visualization, Statistics, and Machine Learning.
+I am a B.Tech Graduate in Information Technology (2026) and an IBM Certified Data Analyst with hands-on experience in Data Analytics, Business Intelligence, Data Visualization, Statistics, and Machine Learning
 
 I specialize in transforming raw data into actionable business insights through data analysis, dashboard development, statistical modeling, and predictive analytics. Currently building real-world projects in SQL, Power BI, Python, and Machine Learning while sharpening my problem-solving skills through daily coding and analytics challenges.
 
