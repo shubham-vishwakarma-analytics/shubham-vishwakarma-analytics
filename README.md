@@ -158,8 +158,6 @@ An agentic AI workflow that automates the invoice lifecycle — from receiving a
 
 - 💼 **LinkedIn**: [linkedin.com/in/shubham-vishwakarma-analytics](https://www.linkedin.com/in/shubham-vishwakarma-analytics)
 - 💻 **GitHub**: [github.com/shubham-vishwakarma-analytics](https://github.com/shubham-vishwakarma-analytics)
-- 📧 **Email**: shubhamvishwakarma.developer@gmail.com
-
 ---
 
 ⭐ Open to opportunities in **Data Analytics, Business Intelligence, SQL Development, Power BI, Python, and Machine Learning**.
