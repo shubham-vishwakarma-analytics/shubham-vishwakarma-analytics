@@ -2,24 +2,24 @@
 
 🎯 **Data Analyst | SQL | Python | Power BI | Excel | Statistics | Machine Learning | IBM Certified**
 
-I am a B.Tech Graduate in Information Technology (2026) and an IBM Certified Data Analyst with hands-on experience in Data Analytics, Business Intelligence, Data Visualization, Statistics, and Machine Learning.
+I am a B.Tech Graduate in Information Technology and an IBM Certified Data Analyst with hands-on experience in Data Analytics, Business Intelligence, Data Visualization, Statistics, and Machine Learning.
 
 I specialize in transforming raw data into actionable business insights through data analysis, dashboard development, statistical modeling, and predictive analytics. Currently building real-world projects in SQL, Power BI, Python, and Machine Learning while sharpening my problem-solving skills through daily coding and analytics challenges.
 
-📫 **Open to:** Data Analyst · Junior Data Analyst · Business Intelligence Analyst · Reporting Analyst · MIS Analyst.
+📫 **Open to:** Data Analyst · Junior Data Analyst · Business Intelligence Analyst · Reporting Analyst · MIS Analyst
 
 ---
 
-## 🎯 Portfolio Highlights:-
+## 🎯 Portfolio Highlights
 
-- ✔️ 13+ Data Analytics & Machine Learning Projects
+- ✔️ 16+ Data Analytics, Machine Learning & Automation Projects
+- ✔️ 3 End-to-End Projects: SQL → Python → Machine Learning → Power BI → Streamlit
 - ✔️ IBM Certified Data Analyst & Data Scientist
 - ✔️ Microsoft SQL Server Professional Certificate
 - ✔️ 174 SQL problems solved on LeetCode — **Top SQL 50** badge
 - ✔️ 100 Days Machine Learning Challenge
 - ✔️ Daily SQL Challenges Repository
-- ✔️ End-to-End Dashboard Development (Power BI, Excel)
-- ✔️ Predictive Analytics & Machine Learning Projects
+- ✔️ Live, deployed Streamlit analytics applications
 
 ---
 
@@ -28,27 +28,79 @@ I specialize in transforming raw data into actionable business insights through 
 ### 📊 Data Analytics
 Data Cleaning · Exploratory Data Analysis (EDA) · Data Visualization · Statistical Analysis · Business Intelligence · KPI Reporting & Insights
 
-### 💻 SQL
-Joins & Subqueries · CTEs · Window Functions · Stored Procedures · Query Optimization
+### 💻 SQL & Data Warehousing
+SQL Server (T-SQL) · Snowflake · Joins & Subqueries · CTEs · Window Functions · Stored Procedures · Analytical Views · Query Optimization
 
 ### 🐍 Python
-Pandas · NumPy · Matplotlib · Seaborn · Scikit-Learn
+Pandas · NumPy · Matplotlib · Seaborn · Scikit-Learn · Streamlit
 
 ### 📈 Power BI
 DAX · Power Query · Data Modeling · Dashboard Development
 
 ### 📗 Excel
-Pivot Tables · Power Query · Dashboards · Advanced Formulas
+Pivot Tables · Power Query · Dashboards · Advanced Formulas · Data Profiling
 
 ### 🤖 Machine Learning
-Regression · Classification · Feature Engineering · Model Evaluation · Predictive Analytics
+Regression · Classification · Feature Engineering · Model Evaluation · Data Leakage Prevention · Predictive Analytics
+
+### ⚙️ Automation & AI
+n8n Workflow Automation · Google Gemini (LLM extraction) · Human-in-the-Loop Design
 
 ### 🛠 Tools & Platforms
-Git · GitHub · Jupyter Notebook
+Git · GitHub · Jupyter Notebook · Google Workspace
 
 ---
 
-## 📂 Featured Projects
+## 🚀 End-to-End Data Analytics Projects
+
+Full-lifecycle projects covering data audit → cleaning → analysis → modeling → dashboards → deployment → business recommendations.
+
+### 🛒 [E-Commerce Product Analytics & Conversion Prediction](https://github.com/shubham-vishwakarma-analytics/ecommerce-product-analytics-conversion-prediction)
+**Stack:** SQL Server · T-SQL · Python · Scikit-Learn · Power BI · Streamlit
+
+Transformed raw e-commerce data into validated KPIs, four Power BI dashboards, and a conversion-prediction model. Analyzed sales, sessions, marketing sources, product profitability, and refunds.
+
+| Metric | Result |
+|---|---|
+| Orders / Sessions | 32,313 / 472,871 |
+| Conversion Rate | 6.83% |
+| Gross Margin | 62.74% |
+
+**Key insights:** Desktop converts at 8.50% vs 3.09% on mobile · one product drives ~62% of revenue · repeat sessions convert better than new sessions.
+
+🔗 [Live Streamlit App](https://ecommerce-conversion-analytics.streamlit.app/) · [Project Report](https://github.com/shubham-vishwakarma-analytics/ecommerce-product-analytics-conversion-prediction/blob/main/05_Reports/PRP_Ecommerce_Digital_Analytics_Final_Presentation.pdf)
+
+---
+
+### 🛡️ [Insurance Claims Analytics](https://github.com/shubham-vishwakarma-analytics/insurance-claims-analytics)
+**Stack:** Excel · Snowflake · SQL · Python · Scikit-Learn · Power BI · Streamlit
+
+Built a Snowflake-based analytics pipeline across 10,000 claims, with SQL cleaning and analytical views, diagnostic analysis, three Power BI dashboards, and a claim-amount prediction model.
+
+| Metric | Result |
+|---|---|
+| Total Claims | 10,000 |
+| Total Claim Exposure | ₹165.64M |
+| Linear Regression R² | 0.7066 |
+
+**Key insights:** High-risk segment is 14.55% of claims · 84.35% of claims are reported after the loss date (avg. delay 3.21 days).
+
+🔗 [Live Streamlit App](https://insurance-claims-risk-analytics.streamlit.app/) · [Project Report](https://github.com/shubham-vishwakarma-analytics/insurance-claims-analytics/blob/main/Reports/Insurance_Claims_Analytics.pdf)
+
+---
+
+### 🤖 [AI Invoice Processing Agent](https://github.com/shubham-vishwakarma-analytics/AI-Invoice-Processing-Agent)
+**Stack:** n8n · Google Gemini · Gmail · Google Drive · Google Sheets · JavaScript
+
+An agentic AI workflow that automates the invoice lifecycle — from receiving an invoice by email to a final decision. Gemini extracts structured data from invoice PDFs, while deterministic business rules handle validation, duplicate detection, and Purchase Order matching. Exceptions are routed to a human reviewer, and every decision is logged for auditability.
+
+**Design principle:** the LLM extracts information; business rules make the decision.
+
+🔗 [View Repository](https://github.com/shubham-vishwakarma-analytics/AI-Invoice-Processing-Agent)
+
+---
+
+## 📂 More Projects
 
 ### 🔹 SQL Projects
 - 📈 **[Superstore Sales Analysis (SQL)](https://github.com/shubham-vishwakarma-analytics/Superstore-Sales-Analysis---SQL)**
@@ -74,7 +126,7 @@ Git · GitHub · Jupyter Notebook
 
 ---
 
-## 🚀 Learning & Challenge Repositories
+## 🏃 Learning & Challenge Repositories
 
 | Journey | Repository |
 |---|---|
@@ -106,6 +158,7 @@ Git · GitHub · Jupyter Notebook
 
 - 💼 **LinkedIn**: [linkedin.com/in/shubham-vishwakarma-analytics](https://www.linkedin.com/in/shubham-vishwakarma-analytics)
 - 💻 **GitHub**: [github.com/shubham-vishwakarma-analytics](https://github.com/shubham-vishwakarma-analytics)
+- 📧 **Email**: shubhamvishwakarma.developer@gmail.com
 
 ---
 
